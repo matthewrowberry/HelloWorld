@@ -20,16 +20,14 @@ Instructions for using the software:
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
 * Python 3.13.5 or pretty much any python 3
-*
-*
+
 
 ## Useful Websites to Learn More
 
 I found these websites useful in developing this software:
 
 * [GitHub](GitHub.com)
-*
-*
+
 
 ## Future Work
 
